@@ -5,14 +5,8 @@
 Group X8
 
 Members:<br>
-Apurv Rathore         2019CSB1077<br>
-Sangram Jagadale   2019CSB1091<br>
+Goutam Sharma          2019MEB1258<br>
 Jaglike Makkar         2019CSB1092<br>
-
-## Submitted To
-Dr. Puneet Goyal <br>
-(Department of Computer Science and Engineering, IIT Ropar)<br>
-
 
 
 ## Description of our App
