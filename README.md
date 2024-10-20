@@ -1,13 +1,6 @@
 # Leave-Portal
 
 
-## Submitted By
-Group X8
-
-Members:<br>
-Goutam Sharma          2019MEB1258<br>
-Jaglike Makkar         2019CSB1092<br>
-
 
 ## Description of our App
 To apply for a leave, faculty and staff members have to go through a lot of paperwork. Our task is to design the Leave Management Portal that will digitalize the leave management system at IIT Ropar. 
