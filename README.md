@@ -20,7 +20,7 @@ The faculties and staff members can fill the leave application form online and v
 Frontend: React<br>
 Backend: Flask<br>
 Database: MySql, Google drive<br>
-Deployment: Heroku (Backend), Vercel (Frontend)<br>
+
 
 
 
